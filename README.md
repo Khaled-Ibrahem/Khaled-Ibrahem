@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Khaled Ibrahem.
-- I'm studying Computer Science now.
-- 🌱 I’m currently learning Artificial Intelligence.
-- 💞️ I’m looking to collaborate on my work
-- 
-<!---
-Khaled-Ibrahem/Khaled-Ibrahem is a ✨ special ✨ repository because its `README.md`, this file for introducing myself.
---->
+Left engineering to follow curiosity.
+Now I’m building with Python, AI, and data—turning ideas into real-world solutions.
+Learning in public. Growing with purpose.
